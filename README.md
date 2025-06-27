@@ -1,4 +1,4 @@
-# **AI Powered NLP to SQL Query System**
+# **AI-Powered Natural Language to SQL Interface**
 
 This project allows users to interact with a **banking dataset** by sending natural language queries. It processes these queries and generates SQL queries using the **free Gemini API**, then executes those queries against a database.
 
@@ -6,7 +6,7 @@ This project allows users to interact with a **banking dataset** by sending natu
 
 ### **1. Clone the repository:**
 ```sh
-git clone <repository-url>
+git clone https://github.com/Fang1331/AI-Powered-Natural-Language-to-SQL-Interface.git
 cd <project-directory>
 ```
 
